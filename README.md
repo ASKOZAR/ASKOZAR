@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mohammed 👑</h1>
 <h3 align="center">- Tools Developer -</h3>
 
-- 📫 How to reach me **mr.askozar@gmail.com**
+- 📫 How to contact me  **t.me/ASKOZAR**
 
 - 🌿Try to develop myself more and more  **ُُ**
 
