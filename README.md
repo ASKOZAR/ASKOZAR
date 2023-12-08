@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mohammed 👑</h1>
-<h3 align="center">- Tools Developer -</h3>
+<h3 align="center">- software dev -</h3>
 
 - 📫 How to contact me  **t.me/ASKOZAR**
 
