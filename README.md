@@ -9,4 +9,17 @@
 <h4>- ✔️ I'Love Python programming language</h4>
 
 ![X](65bb8be8de8743022f718c4de898b429.jpg)
+## Skills 
 
+**Programming Languages: ![PYTHON](https://img.shields.io/badge/python-%231d1f1e?style=flat&logo=python&logoColor=white)**
+- Possesses a strong grasp of Python's structure.
+
+- Mastery in handling diverse data structures, such as lists, tuples, sets, and dictionaries.
+
+- Comprehensive understanding of object-oriented programming (OOP) concepts in Python.
+
+- Efficiently utilizes Python's standard modules and libraries for everyday tasks.
+
+- Skillful in handling exceptions and conducting unit testing.
+
+- Proficient understanding of functional programming in Python.
