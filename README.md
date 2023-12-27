@@ -1,13 +1,13 @@
-<h1 align="center">Hi , I'm Mohammed 👑</h1>
-<h3 align="center">- software dev -</h3>
+<h1 align="center">Hi , I'm ASKOZAR 🏴‍☠️</h1>
 
-- 📫 How to contact me  **t.me/ASKOZAR**
+<h4>- ✔️ I'm a Software Devloper </h4>
+<h4>- ✔️ I'Love Python programming language</h4>
 
-- 🌿Try to develop myself more and more  **ُُ**
+![X](65bb8be8de8743022f718c4de898b429.jpg)
+<h3>Contact</h3>
 
-
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.askozar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n5n5_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/f_1pt) 
 
-# 💻 Tech Stack:
+<h3>Skills</h3>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
