@@ -1,4 +1,9 @@
 <h1 align="center">Hi , I'm ASKOZAR 🏴‍☠️</h1>
+<p align="center">
+    <a href="https://t.me/ASKOZAR"><img src="https://img.shields.io/badge/telegram-%231d1f1e?style=flat&logo=telegram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/n5n5_"><img src="https://img.shields.io/badge/instagram-%231d1f1e?style=flat&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.facebook.com/MR.ASKOZAR"><img src="https://img.shields.io/badge/facebook-%231d1f1e?style=flat&logo=facebook&logoColor=white" /></a>
+</p>
 
 <h4>- ✔️ I'm a Software Devloper </h4>
 <h4>- ✔️ I'Love Python programming language</h4>
@@ -6,8 +11,3 @@
 ![X](65bb8be8de8743022f718c4de898b429.jpg)
 <h3>Contact</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.askozar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n5n5_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/f_1pt) 
-
-<h3>Skills</h3>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
