@@ -11,7 +11,8 @@
 ![X](65bb8be8de8743022f718c4de898b429.jpg)
 ## Skills 
 
-**Programming Languages: ![PYTHON](https://img.shields.io/badge/python-%231d1f1e?style=flat&logo=python&logoColor=white)**
+![X](https://img.shields.io/badge/Programming%20Languages_:-%231d1f1e?style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/python-%231d1f1e?style=for-the-badge&logo=python&logoColor=white)
 - Possesses a strong grasp of Python's structure.
 
 - Mastery in handling diverse data structures, such as lists, tuples, sets, and dictionaries.
