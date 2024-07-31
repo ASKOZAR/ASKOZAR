@@ -5,14 +5,14 @@
     <a href="https://www.facebook.com/100077501528589"><img src="https://img.shields.io/badge/facebook-%231d1f1e?style=flat&logo=facebook&logoColor=white" /></a>
 </p>
 
-<h4>-◼️ Systeme / Software Dev. </h4>
+<h4>-◼️ CLI Developer/Automation Specialist. </h4>
 <h4>-◼️ i Love Python. </h4>
 
 ![X](65bb8be8de8743022f718c4de898b429.jpg)
 ## Skills 
 
 ![X](https://img.shields.io/badge/Programming%20Languages_:-%231d1f1e?style=for-the-badge)
-![PYTHON](https://img.shields.io/badge/python-%231d1f1e?style=for-the-badge&logo=python&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-%231d1f1e?style=for-the-badge&logo=python&logoColor=white)![Nodejs](https://img.shields.io/badge/EX..-%231d1f1e?style=for-the-badge&logo=&logoColor=white)
 - Possesses a strong grasp of Python's structure.
 
 - Mastery in handling diverse data structures, such as lists, tuples, sets, and dictionaries.
