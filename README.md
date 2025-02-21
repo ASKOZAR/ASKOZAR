@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm ASKOZAR </h1>
+<h1 align="center">Hi , I'm Mohammed Askour 👋 :trollface:</h1>
 
 
 ```py
@@ -11,7 +11,7 @@
      self.github    = "https://github.com/Askozar"
      self.discord   = "askozar"
      self.telegram  = "askozar"
-     self.job       = "Idk Developer"
+     self.job       = None 
   
 ┌──(x0@ubuntu)-[~]
 └─$ echo "F*k y'all </"
