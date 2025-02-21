@@ -11,9 +11,9 @@
      self.github    = "https://github.com/Askozar"
      self.discord   = "askozar"
      self.telegram  = "askozar"
-     self.job       = None 
+     self.job       =  None 
   
 ┌──(x0@ubuntu)-[~]
-└─$ echo "F*k y'all </"
+└─$ echo "F*k"
 ```
 ![X](65bb8be8de8743022f718c4de898b429.jpg)
