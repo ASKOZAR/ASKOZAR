@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mohammed Askour 👋 :trollface:</h1>
+<h1 align="center">^^</h1>
 
 
 ```py
@@ -11,9 +11,9 @@
      self.github    = "https://github.com/Askozar"
      self.discord   = "askozar"
      self.telegram  = "askozar"
-     self.job       =  None 
+     self.job       =  Hmmm
   
 ┌──(x0@ubuntu)-[~]
-└─$ echo "F*k"
+└─$ echo "I have no goal for this "
 ```
 ![X](65bb8be8de8743022f718c4de898b429.jpg)
