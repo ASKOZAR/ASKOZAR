@@ -3,7 +3,7 @@
 
 ```py
 ┌──(x0@ubuntu)-[~]
-└─$ cat x0.py # I <3 Music/sleep/py/search/G
+└─$ cat x0.py
 
   class x0.Askozar:
   
